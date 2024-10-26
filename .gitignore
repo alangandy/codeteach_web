@@ -1,0 +1,20 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+build/
+.env
+
+# Web specific
+web/.dart_tool/
+web/.packages
+web/build/
+
+# General
+*.log
+*.lock
+*.tmp
+*.swp
+*.DS_Store
